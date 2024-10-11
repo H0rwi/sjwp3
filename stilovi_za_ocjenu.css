@@ -1,0 +1,15 @@
+.naslov1{
+    background-color: rgb(60, 151, 131);
+    color: black;
+    padding: 20px;
+    text-align: center;
+}
+
+
+.slika1{
+    width: 300px;
+    margin: 10px;
+    border: 10px solid black;
+    border-color: rgb(60, 151, 131);
+}
+
