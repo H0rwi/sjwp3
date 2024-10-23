@@ -1,0 +1,24 @@
+.champions1{
+    background-color: rgb(60, 151, 131);
+    color: black;
+    padding: 20px;
+    text-align: center;
+}
+
+table, th, td{
+    text-align: center;
+    border: 2px dotted black;
+    border-collapse: collapse;
+}
+
+th{
+    background-color: azure;
+    color: black;
+    padding: 3px;
+}
+
+td{
+    background-color: beige;
+    padding: 3px;
+    text-align: center;
+}

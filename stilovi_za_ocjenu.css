@@ -7,9 +7,20 @@
 
 
 .slika1{
-    width: 300px;
+    width: 600px;
     margin: 10px;
     border: 10px solid black;
-    border-color: rgb(60, 151, 131);
+    border-color: rgb(60, 151, 131)
+}
+
+.podnaslov1:hover{
+    font-size: 2em;
+}
+
+.naslov3{
+    background-color: rgb(60, 151, 131);
+    color: black;
+    padding: 20px;
+    text-align: center;
 }
 
