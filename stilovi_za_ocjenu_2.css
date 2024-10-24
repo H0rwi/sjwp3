@@ -9,6 +9,7 @@ table, th, td{
     text-align: center;
     border: 2px dotted black;
     border-collapse: collapse;
+    width: 10%;
 }
 
 th{
@@ -21,4 +22,25 @@ td{
     background-color: beige;
     padding: 3px;
     text-align: center;
+}
+
+.tablica{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.podnaslov2{
+    text-align: center;
+}
+
+.tekst5{
+    text-align: center;
+    font-size: 25px;
+}
+
+.slika3{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
 }

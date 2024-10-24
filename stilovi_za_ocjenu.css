@@ -7,10 +7,17 @@
 
 
 .slika1{
+    display: block;
     width: 600px;
-    margin: 10px;
+    margin-left: auto;
+    margin-right: auto;
     border: 10px solid black;
     border-color: rgb(60, 151, 131)
+}
+
+.podnaslov1{
+    text-align: center;
+    font-size: 25px;
 }
 
 .podnaslov1:hover{
@@ -24,3 +31,43 @@
     text-align: center;
 }
 
+.tekst1{
+    text-align: center;
+}
+
+.slika2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+.naslov4{
+    text-align: center;
+    font-size: 25px;
+}
+
+.tekst2{
+    text-align: center;
+    font-size: 20px;
+}
+
+.tekst3{
+    text-align: center;
+    font-size: 20px;
+}
+
+.tekst4{
+    text-align: center;
+    font-size: 20px;
+}
+
+.link1{
+    text-align: center;
+    font-size: 20px;
+}
+
+.link2{
+    text-align: center;
+    font-size: 20px;
+}
